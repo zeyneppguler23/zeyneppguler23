@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Zeynep Güler</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding girl gif" width="300"/>
+  <img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBoMDVlM2x3d3Nnem83YjJ2cTRzZXExc3A1NXFiNXZ1cTIxNzNzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIfLhexLUqwik/giphy.webp)" alt="Coding girl gif" width="300"/>
 </p>
 
 <h2 align="center">💻 About Me</h2>
