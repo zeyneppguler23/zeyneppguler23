@@ -6,7 +6,7 @@
 
 <h2 align="center">💻 About Me</h2>
 
-- 🎓 Computer Science student passionate about **AI** and **software development**.
+- 🎓 Computer Science student in the United Kingdom.
 - 🌟 Skilled in **Java**, **Python**, and **OOP**.
 - 🚀 Currently exploring **C family** languages and **AI**.
 - 💼 Looking for **internship opportunities**.
