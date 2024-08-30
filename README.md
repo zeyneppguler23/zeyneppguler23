@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Zeynep Güler</h1>
+<h1 align="center">Hello World! 👋 I'm Zeynep Güler</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding girl gif" width="300"/>
